@@ -4,7 +4,7 @@
 
 1.  Learn how to use Databricks environment
     1.  Create cluster
-    2.  Switch on DBFS (Databricks file system)
+    2.  Switch on DBFS (Databricks file system) - Login to databricks > Admin Settings > Search of DBFS > switch on and refresh 
     3.  Upload required CSV, Parquet files
     4.  Create Delta Table
 2.   Understanding Low level Design (LLD) of working good codebase in Data engineering
